@@ -1,0 +1,47 @@
+@media (max-width: 1100px) {
+    .container .card{
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .container .card .capa{
+        width: 375px;
+        height: 250px;
+    }
+    .container .card .information{
+        padding: 50px 100px 50px 50px;
+        width: 370px;
+        height: auto;
+    }
+
+    .container .card .capa img{
+        border-radius: 10px 10px 0px 0px;
+    }
+    
+    .container .card .capa .capa-opacity{
+        border-radius: 10px 10px 0px 0px;
+    }
+
+    .container .card .information{
+        padding: 30px;
+        text-align: center;
+    }
+
+    .container .card .information .title {
+        font-size: 3.2rem;
+    }
+
+    .container .card .information .description {
+        width: 100%;
+    }
+
+    .container .card .information .paragraph{
+        font-size: 1.7rem;
+        line-height: 25px;
+    }
+
+    .container .card .information .date{
+        flex-direction: column;
+        gap: 25px;
+    }
+}
