@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screen desktop](./src/images/screenshot-desktop.png)
+![screen mobile](./src/images/screenshot-mobile.png)
 
 ### Links
 
@@ -42,26 +43,27 @@ Users should be able to:
 
 ### What I learned
 
-Para este desafio, tentei ter um bom resultado na parte da responsividade. Responsividade e a capacidadade que o site tem de se adaptar a varios tipos de resoluçoes. O card criado no projeto se adapta a resoluçoes para mobile e desktop.
+For this challenge, I aimed to achieve good results in the area of responsiveness. Responsiveness is the website's ability to adapt to various screen resolutions. The card created in the project adjusts to resolutions for both mobile and desktop, providing a seamless user experience.
 
 
-Aqui eu estou aplicando uma estilizaçao diferente para o site quando o dispositivo tiver no maximo 1100px.
+Here, I am applying a different styling to the website when the device has a maximum width of 1100px.
 ```css
 @media (max-width: 1100px) {
   /**Nova estilizaçao**/
 }
 ```
 
-Vendo meu resultado, acredito que consegui o que esperava na responsividade deste site, mas tenho que praticar mais.
+Looking at my results, I believe I achieved what I expected in terms of the responsiveness of this site, but I know I need to practice more.
 
 ### Continued development
 
-No meu proximo desafio aplicarei o display grid, para criar grades e dispor objetos em linhas e colunas.
+In my next challenge, I will apply the `display: grid` to create grids and arrange objects in rows and columns.
 
 ### Useful resources
+- [W3Schools](https://www.w3schools.com/css/default.asp) - 
+I used W3Schools to clarify my doubts and I really liked their examples, which clarify how to use CSS properties.
 
-- [W3Schools](https://www.w3schools.com/css/default.asp) - Utilizei o W3School para tirar minhas dividas e gostei muito de seus exemplos, que exclarecem muito de como utilizar as propriedades do css.
-- [MDN Web Docs](https://developer.mozilla.org/pt-BR/) - Gostaria que conhececem o mdn web docs que me ajudou bastante em entender as tags do html
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/) - I'd like you to get to know MDN Web Docs, which helped me a lot in understanding HTML tags.
 
 ## Author
 
