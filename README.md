@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/page-responsive-f1Ocqj0Slp)
+- Live Site URL: [Live site URL here](https://otaviano-manoel.github.io/stats-card-Responsividade/)
 
 ## My process
 

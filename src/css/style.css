@@ -24,8 +24,11 @@ body {
     border-radius: 10px;
 }
 
-.container .card .capa {
+.container .card .image-enterprise {
     position: relative;
+}
+
+.container .card .capa {
     width: 540px;
 }
 
@@ -35,7 +38,7 @@ body {
     border-radius: 0px 10px 10px 0px;
 }
 
-.container .card .capa .capa-opacity {
+.container .card .capa-opacity {
     position: absolute;
     left: 0;
     background-color: hsl(277, 64%, 61%, 0.5);
